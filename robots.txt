@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://gavukaequ.dbpl2017.org/sitemap.xml
